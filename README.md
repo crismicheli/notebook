@@ -10,3 +10,8 @@ and call it nosce-te-ipsum. <The goal is to reveal semantic recurring themes, to
 - chapter 3 - the brain - energetics, information, entropy  
 - chapter 4-etc - collect all ideas in the folders [here](https://1drv.ms/f/c/d02df0179143f1bd/IgCFo1RsNQCkQYlu9wsoRxERAU_B0MOZA0RvKDJNn_3afPU?e=dD0DRW)  
 
+3 - A e-pysh simulator:
+Regarding the project to mix EEG tracks (see repo brainflow...), look for open source audio track mixers and do a minimalistic viewer where you can combine different charateristics
+of an EEG signal (oscillaroty patterns, K-complexes in sleep, spikes in seizures, etc). Different mixing modes (linear, non-linear, multiplicative, convolutional, also with spatial component.
+Could be done also for EMG signals.
+The goal is to generate simulated signals to test algorithms (online and offline) such as blind cource separation, parafac, ICA, CCA and others.
